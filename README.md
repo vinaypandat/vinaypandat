@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<img align='right' src="https://media.giphy.com/media/n6skQwtXcP9nUO9x1r/giphy.gif" width="230">
 <!--
 **vinaypandat/vinaypandat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
