@@ -1,9 +1,11 @@
 <h1 align="left">Hi 👋, I'm Vinay Pandey</h1>
 <img align='right' src="https://media.giphy.com/media/fHfDyRjBvSyLUNXBhE/giphy.gif" width="300">
 
-Dedicated to build a successful career in DevOps and looking for an opportunity to work in an organisation to grow and challenge my skills.
+Dedicated DevOps Engineer, passionate about automation and learning new things.
 
-:books: Currently, I am doing **DevOps Profiecient** from QA Cloud academy’s learning path.
+- 🔭 I’m currently working on [YouTube Downloader](https://github.com/vinaypandat/youtube_downloader_2.0.git)
+
+- 🌱 I’m currently learning **DevOps architect master training from QA Cloud academy and Intelipaat Bootcamp.**
 
 ##  Languages and Tools:
 <p>
