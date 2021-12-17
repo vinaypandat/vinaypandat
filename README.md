@@ -8,6 +8,10 @@ Dedicated DevOps Engineer, passionate about automation and learning new things.
 
 - 🌱 I’m currently learning **DevOps architect master training from QA Cloud academy and Intelipaat Bootcamp.**
 
+- 👨‍💻 Check my [portfolio](https://vinaypandat.my.canva.site/)
+
+
+
 ##  Languages and Tools:
 <p>
   <a href="https://certificates.cloudacademy.com/951b2b3bb4776ce3cca2c565449c0d5b83da9e25.pdf" target="_blank"><img alt="Git" 
