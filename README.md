@@ -1,4 +1,5 @@
 <h1 align="left">Hi 👋, I'm Vinay Pandey</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vinaypandat&label=Profile%20views&color=0e75b6&style=flat" alt="vinaypandat" /> </p>
 <img align='right' src="https://media.giphy.com/media/fHfDyRjBvSyLUNXBhE/giphy.gif" width="300">
 
 Dedicated DevOps Engineer, passionate about automation and learning new things.
@@ -30,3 +31,5 @@ Dedicated DevOps Engineer, passionate about automation and learning new things.
   <a href="mailto:engg.vinaypandey@gmail.com" target="_blank"><img alt="Gmail"
       src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
+
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinaypandat&show_icons=true&locale=en&layout=compact" alt="vinaypandat" /></p>
