@@ -4,11 +4,11 @@
 
 Dedicated DevOps Engineer, passionate about automation and learning new things.
 
-- 🔭 I’m currently working on [YouTube Downloader](https://github.com/vinaypandat/youtube_downloader_2.0.git)
+<!-- - 🔭 I’m currently working on [YouTube Downloader](https://github.com/vinaypandat/youtube_downloader_2.0.git) -->
 
 - 🌱 I’m currently learning **DevOps architect master training from QA Cloud academy and Intelipaat Bootcamp.**
 
-- 👨‍💻 Check my [portfolio](https://vinaypandat.my.canva.site/)
+<!-- - 👨‍💻 Check my [portfolio](https://vinaypandat.my.canva.site/) -->
 
 
 
