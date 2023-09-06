@@ -2,11 +2,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinaypandat&label=Profile%20views&color=0e75b6&style=flat" alt="vinaypandat" /> </p>
 <img align='right' src="https://media.giphy.com/media/fHfDyRjBvSyLUNXBhE/giphy.gif" width="300">
 
-Dedicated DevOps Engineer, passionate about automation and learning new things.
+Dedicated Software Developer and DevOps Engineer, passionate about automation and learning new things.
 
 <!-- - 🔭 I’m currently working on [YouTube Downloader](https://github.com/vinaypandat/youtube_downloader_2.0.git) -->
 
-- 🌱 I’m currently learning **DevOps architect master training from QA Cloud academy and Intelipaat Bootcamp.**
+- 🌱 I’m currently learning **React library.**
 
 <!-- - 👨‍💻 Check my [portfolio](https://vinaypandat.my.canva.site/) -->
 
@@ -36,4 +36,4 @@ Dedicated DevOps Engineer, passionate about automation and learning new things.
       src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinaypandat&show_icons=true&locale=en&layout=compact" alt="vinaypandat" /></p>
+<!-- -<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinaypandat&show_icons=true&locale=en&layout=compact" alt="vinaypandat" /></p> -->
