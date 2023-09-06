@@ -16,6 +16,7 @@ Dedicated Software Developer and DevOps Engineer, passionate about automation an
 <p>
   <a href="https://certificates.cloudacademy.com/951b2b3bb4776ce3cca2c565449c0d5b83da9e25.pdf" target="_blank"><img alt="Git" 
       src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" /></a>&nbsp;
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt=C-Sharp/>&nbsp;
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />&nbsp;
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java" />&nbsp;
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />&nbsp;
@@ -26,6 +27,8 @@ Dedicated Software Developer and DevOps Engineer, passionate about automation an
   <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell" />&nbsp;
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>&nbsp;
   <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>&nbsp;
+  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Azure Devops"/>&nbsp;
+  <img src="https://img.shields.io/badge/Azure_Functions-0062AD?style=for-the-badge&logo=azure-functions&logoColor=white" alt="Azure Funtions"/>&nbsp;
 </p>
 
 ## Where to find me
