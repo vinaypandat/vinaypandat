@@ -6,7 +6,7 @@ Dedicated Software Developer and DevOps Engineer, passionate about automation an
 
 <!-- - 🔭 I’m currently working on [YouTube Downloader](https://github.com/vinaypandat/youtube_downloader_2.0.git) -->
 
-- 🌱 I’m currently learning **React library.**
+- 🌱 I’m currently learning **MERN Stack.**
 
 <!-- - 👨‍💻 Check my [portfolio](https://vinaypandat.my.canva.site/) -->
 
