@@ -6,7 +6,7 @@ Dedicated Software Developer and DevOps Engineer, passionate about automation an
 
 <!-- - 🔭 I’m currently working on [YouTube Downloader](https://github.com/vinaypandat/youtube_downloader_2.0.git) -->
 
-- 🌱 I’m currently building **Stocks Application**
+- 🌱 I’m currently building **Appointment SaaS**
 
 <!-- - 👨‍💻 Check my [portfolio](https://vinaypandat.my.canva.site/) -->
 
